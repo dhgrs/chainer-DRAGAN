@@ -21,3 +21,10 @@ python dragan_mnist.py -g n
 ```
 python dragan_mnist.py
 ```
+
+# Result
+## gan loss
+![](gan.png)
+
+## generated images
+![](image200000.png)
